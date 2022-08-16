@@ -7,7 +7,7 @@
   "authorHandle": "@pareenglishcourse",
   "authorName": "Pare English",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/logo.png",
+  "maxPostsPerPage": 5
 }
