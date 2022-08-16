@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Pare English Course Bandung
+metaDesc: Pare English Course Bandung.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Pare English Course Bandung.'
-socialImage: ''
+socialImage: /images/logo.png
 ---
 
 Ayo mari ketahui tentang program Pare English Course Bandung
